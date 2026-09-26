@@ -1,0 +1,22 @@
+/* ============================================================
+   Gotham Knights — Webfonts
+   Harbour (wedge serif, heraldic) — the logo wordmark voice
+   GothamHTF Black (heavy geometric sans) — the athletic "loud" voice
+   Hanken Grotesk loaded via Google Fonts in styles.css for body/UI
+   ============================================================ */
+
+@font-face {
+  font-family: "Harbour";
+  src: url("../assets/fonts/harbour-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GothamHTF";
+  src: url("../assets/fonts/GothamHTF-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
